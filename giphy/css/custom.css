@@ -1,0 +1,33 @@
+body{
+	background-color: #2582DF;
+}
+#giphy-form{
+	margin-top:20px;
+
+}
+#giphy-form label{
+	display: block;
+	text-align: center;
+	font-size: 50px;
+}
+#giphy-form input{
+	display: block;
+	width:80%;
+	padding:20px;
+	margin:auto;
+}
+#giphy-form button{
+	display: block;
+	width:80%;
+	padding: 20px;
+	margin:auto;
+	margin-top: 20px;
+}
+#result{
+	display: inline;
+	float:left;
+}
+img{
+	height: 200px;
+	width:200px;
+}

@@ -1,0 +1,27 @@
+
+h1{
+	margin-left: 50px;
+}
+.container{
+	background-color: #24BCEA;
+	width:600px;
+	height: 300px;
+	text-align: center;
+}
+button{
+
+}
+.inputFields{
+	display: inline-block;
+}
+#button1,#button2,#button3{
+	visibility: hidden;
+
+}
+
+#button{
+	visibility:visible;
+}
+#refresh{
+	visibility: hidden;
+}

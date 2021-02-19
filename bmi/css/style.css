@@ -1,0 +1,45 @@
+body{
+	background-color:#194950;
+}
+.form-div{
+	width: 80%;
+	background-color:#45747A;
+	margin:auto;
+	text-align: center;
+}
+.bmi-form label{
+	display: block;
+	font-size: 25px;
+	margin:15px 0px;
+	color:#fff;
+}
+.bmi-form button{
+	display: block;
+	margin: auto;
+	width:84%;
+	padding:15px;
+	margin-top: 20px;
+	background-color: #011423;
+	color:#fff;
+	font-size: 15px;
+}
+.bmi-form input{
+	width: 80%;
+	padding:15px;
+}
+#errorDiv{
+	width:80%;
+	margin:auto;
+	background-color: #45747A;
+	text-align: center;
+	visibility: none;
+	font-size: 20px;
+	color: #fff;
+}
+#result{
+	width:80%;
+	margin:auto;
+	background-color: #45747A;
+	text-align: center;
+	color:#fff;
+}

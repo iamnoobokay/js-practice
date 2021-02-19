@@ -1,0 +1,56 @@
+.container{
+    text-align: center;
+}
+.form-container{
+    background-color:gainsboro;
+    width:80%;
+    display: inline-block;
+}
+#myForm label{
+    font-size: 20px;
+}
+#myForm input{
+    width: 80%;
+    padding:10px;
+}
+.button {
+    padding:10px;
+    width:30%;
+    margin-top:20px;
+    background-color: #6D9AD4;
+    font-size: 15px;
+}
+#result{
+    background-color: #6D9AD4;
+    width:100%;
+    /*display: inline-block;*/
+    
+    margin-top: 20px;
+
+}
+
+.result{
+    width:80%;
+    background-color: gainsboro;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: left;
+    height: 100px;
+}
+.result h3{
+    padding:30px;
+    font-size: 25px;
+}
+
+.result a{
+    margin-left: 5px;
+    font: bold 15px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
